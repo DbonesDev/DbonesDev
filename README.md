@@ -1,30 +1,6 @@
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DbonesDev&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=C7A15B&icon_color=265ab2" alt="DbonesDev Stats" />
-</div>
-
-<br>
-<div align="center">
-  <p><em>Coding like it's 1999.</em></p>
-</div>
-
-
-Com certeza. O seu histórico no **PRAV (Projetos de Áudio e Vídeo)** e o Mestrado em **Sensoriamento Remoto** são a "ponte" perfeita entre o passado (VB6) e o futuro (IA/Rust).
-
-Isso mostra que você não pulou de "sites simples" para "IA". Existe uma base científica sólida aí:
-
-1. 
-**C++ e Qt (PRAV):** Provam que você já lidava com *Bare Metal*, gerenciamento de memória e sistemas críticos (salas cirúrgicas) muito antes do Rust.
-
-
-2. **Sensoriamento Remoto (Mestrado):** É a "avó" da Visão Computacional moderna. O reconhecimento de padrões que você estudou lá  é a base matemática do que fazemos hoje com LLMs e Transformers.
-
-
-
-Aqui está o README atualizado. Criei uma seção nova chamada **"The Scientific Roots"** para dar destaque a essa profundidade acadêmica.
-
-```markdown
-<div align="center">
-  <img src="https://via.placeholder.com/150/265ab2/FFFFFF?text=Dbones" width="100" alt="Dbones Logo"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=DbonesDev&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=C7A15B&icon_color=265ab2"" width="100" alt="Dbones Logo"/>
   
   <h1>Hello, I'm Dbones.</h1>
   
