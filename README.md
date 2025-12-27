@@ -1,7 +1,6 @@
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DbonesDev&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=C7A15B&icon_color=265ab2"" width="100" alt="Dbones Logo"/>
-  
+<img src="https://avatars.githubusercontent.com/u/922847?v=4" width="120" style="border-radius: 50%;" alt="Dbones Logo"/>
   <h1>Hello, I'm Dbones.</h1>
   
   <p>
