@@ -80,11 +80,6 @@ I am currently pouring my efforts into my side project, the **Arca Platform**, w
 
 ---
 
-### 📊 GitHub Stats
-
-![DbonesDev Stats](https://github-readme-stats.vercel.app/api?username=DbonesDev&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=C7A15B&icon_color=265ab2&text_color=ffffff)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DbonesDev&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=C7A15B&text_color=ffffff)
 
 <br>
 <div align="center">
